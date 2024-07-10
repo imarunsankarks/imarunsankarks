@@ -7,5 +7,6 @@ Hey there! I'm a versatile Full Stack Developer 🖥️💻, crafting awesome we
 🔧 Backend: Node.js, PHP
 📦 Database: MongoDB
 🛠️ CMS: WordPress
+☁️ Cloud: AWS
 
 Always eager to learn new things and bring ideas to life with code! 🌟👨‍💻
